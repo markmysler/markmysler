@@ -1,14 +1,10 @@
-<div align="center">
+[![Location](https://img.shields.io/badge/Buenos%20Aires-Argentina-74ACDF?style=flat-square&logo=googlemaps&logoColor=white)](#) [![Languages](https://img.shields.io/badge/speaks-Spanish%20%C2%B7%20English-555?style=flat-square)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mark--mysler-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-mysler/)<div align="center">
 
 # Hi, I'm Mark 👋
 
 **Backend developer & cybersecurity student**
 
-[![Location](https://img.shields.io/badge/Buenos%20Aires-Argentina-74ACDF?style=flat-square&logo=googlemaps&logoColor=white)](#) [![Languages](https://img.shields.io/badge/speaks-Spanish%20%C2%B7%20English-555?style=flat-square)](#)
-<!-- Add your contact badges here, e.g.:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
--->
+[![Location](https://img.shields.io/badge/Buenos%20Aires-Argentina-74ACDF?style=flat-square&logo=googlemaps&logoColor=white)](#) [![Languages](https://img.shields.io/badge/speaks-Spanish%20%C2%B7%20English-555?style=flat-square)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mark--mysler-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-mysler/)
 
 </div>
 
