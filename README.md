@@ -1,4 +1,4 @@
-[![Location](https://img.shields.io/badge/Buenos%20Aires-Argentina-74ACDF?style=flat-square&logo=googlemaps&logoColor=white)](#) [![Languages](https://img.shields.io/badge/speaks-Spanish%20%C2%B7%20English-555?style=flat-square)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mark--mysler-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-mysler/)<div align="center">
+<div align="center">
 
 # Hi, I'm Mark 👋
 
@@ -34,4 +34,4 @@
 | [**snake-ai**](https://github.com/markmysler/snake-ai) · [demo](https://markmysler.github.io/snake-ai/) | Lab where neural networks learn Snake: genetic algorithm, DQN and an LLM agent, with a 9-lesson course and reproducible runs. | PyTorch · FastAPI |
 | [**markov-passgen**](https://github.com/markmysler/markov-passgen) | Generates human-like password candidates with Markov chains, for password auditing. | Python |
 | [**desktop-ls**](https://github.com/markmysler/desktop-ls) | Lightweight Windows desktop navigation bar: point your desktop at any folder and browse it like a file manager. | C# |
-| [**asciify**](https://github.com/markmysler/asciify) | Converts images to colored ASCII art in the terminal. On PyPI as [`asciifyy`](https://pypi.org/project/asciifyy/). | Python · Pillow |
+| [**asciify**](https://github.com/markmysler/asciify) | Turns images into ASCII or colored block art in the terminal, and plays animated GIFs. Install with pip ([`asciifyy`](https://pypi.org/project/asciifyy/)) or apt. | Python · Pillow |
