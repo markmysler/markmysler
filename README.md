@@ -30,6 +30,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**Damn Vulnerable Containers**](https://github.com/markmysler/dvc) | Self-hosted offensive-security training platform: spawn intentionally vulnerable apps in isolated Docker containers and capture flags. | Flask · Docker · TypeScript |
+| [**pokedex-next**](https://github.com/markmysler/pokedex-next) · [play](https://pokedex-next-rho.vercel.app) | Full-stack Pokémon collection and battle game: CS2-style case openings, 3v3 battles against a bot or other players in real time, trading and evolution, in English and Spanish. All game logic runs server-side on a locked-down Supabase backend. | Next.js · Supabase · TypeScript |
 | [**wpair-cli**](https://github.com/markmysler/wpair-cli) | Defensive scanner for CVE-2025-36911, a Google Fast Pair Bluetooth vulnerability. | Python |
 | [**snake-ai**](https://github.com/markmysler/snake-ai) · [demo](https://markmysler.github.io/snake-ai/) | Lab where neural networks learn Snake: genetic algorithm, DQN and an LLM agent, with a 9-lesson course and reproducible runs. | PyTorch · FastAPI |
 | [**pathfinder**](https://github.com/markmysler/pathfinder) · [demo](https://markmysler.github.io/pathfinder/) | Learn graph traversal algorithms by watching them route across real road maps, side by side. In active development. | TypeScript · React · MapLibre |
